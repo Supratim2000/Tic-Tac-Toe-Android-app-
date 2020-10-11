@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="welcomeMessage">Welcome to Tic-Tac-Toe</string>
+    <string name="gridContentDescription">Play Grid</string>
+    <string name="playerTurn">Player one turn - Tap grid to play.</string>
+    <string name="resetButton">Reset</string>
+    <string name="welcomeMessageFontFamily">cursive</string>
+    <string name="firstGrid">First grid</string>
+    <string name="secondGrid">Second grid</string>
+    <string name="thirdGrid">Third grid</string>
+    <string name="fourthGrid">Fourth grid</string>
+    <string name="fifthGrid">Fifth grid</string>
+    <string name="sixthGrid">Sixth grid</string>
+    <string name="seventhGrid">Seventh grid</string>
+    <string name="eighthGrid">Eighth grid</string>
+    <string name="ninthGrid">Ninth grid</string>
+</resources>
