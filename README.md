@@ -8,5 +8,5 @@ Basically two user can play TIC TAC TOE game giving their own input.
 
 # User interace looks like >>>>
 
-![User interface](Desktop/tic_tac_toe)
+![](https://github.com/aj-34719/Tic-Tac-Toe-Android-app-/blob/master/tic_tac_toe.jpg)
 
